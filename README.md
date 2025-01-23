@@ -1,4 +1,4 @@
-# DSG-ADViCE-Jan2025
+# DSG-ADViCE-Jan2025 - Team 1
 Team repository for the January 2025 ADViCE DSG Challenge
 
 # Team Charter
